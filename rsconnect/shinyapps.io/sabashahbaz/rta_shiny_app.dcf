@@ -1,0 +1,10 @@
+name: rta_shiny_app
+title:
+username: sabashahbaz
+account: sabashahbaz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16525757
+bundleId: 11502999
+url: https://sabashahbaz.shinyapps.io/rta_shiny_app/
+version: 1
