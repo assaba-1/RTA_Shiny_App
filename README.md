@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Road Traffic Accident Severity – Shiny Dashboard
 
 This repository contains an interactive **R Shiny dashboard** analyzing road traffic accident data with a focus on injury severity and demographic factors.
